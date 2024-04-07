@@ -1,50 +1,50 @@
-#List of the AI/ML/Data Science based companies in Nepal.
+## List of the AI/ML/Data Science based companies in Nepal
 
-| COMPANY NAME | LINKEDIN PROFILE|
+| COMPANY NAME | Contacts |
 |-------------|---------|
-|	Angelswing	|	https://www.linkedin.com/company/angelswing/		|
-| Armis Tech | https://www.linkedin.com/company/armistech/ |
-|	Asterdio	|	https://www.linkedin.com/company/asterdio/		|
-|	Bottle Technology	|	https://www.linkedin.com/company/bottle-technology/		|
-| BSAI Techno Sales   |   https://www.linkedin.com/company/bsaitechnosales/       |
-|	BrainTip AI	|	https://www.linkedin.com/company/braintip-ai/		|
-|	Bytes N Chips Software	|	https://www.linkedin.com/company/bytes-n-chips-software/		|
-|	Chulo Solution	|	https://www.linkedin.com/company/chulo-solution/		|
-|	Cloudfactory	|	https://www.linkedin.com/company/cloudfactory-com/		|
-| Crimson Tech | https://www.linkedin.com/company/crimson-tech-nepal/ |
-|	Deerhold	|	https://www.linkedin.com/company/deerhold/		|
-|	Diyo.AI	|	https://www.linkedin.com/company/diyoai/		|
-| DLytica inc | https://www.linkedin.com/company/dlytica/ |
-|	Docsumo	|	https://www.linkedin.com/company/docsumoai/		|
-|	Ekbana Solutions	|	https://www.linkedin.com/company/ekbana-solutions-pte--ltd/		|
-|	Ensemble Matrix	|	https://www.linkedin.com/company/ensemblematrix/		|
-|	exTenso Data	|	https://www.linkedin.com/company/extensodata/		|
-|	Eydean	|	https://www.linkedin.com/company/eydeaninc/		|
-|	Fuse Machines	|	https://www.linkedin.com/company/fusemachines/		|
-|	GritFeat Solutions	|	https://www.linkedin.com/company/gritfeat-solutions/		|
-|	GrowByData	|	https://www.linkedin.com/company/growbydata/		|
-|	iBriz.ai	|	https://www.linkedin.com/company/ibriz-ai/		|
-|	Info Developers	|	https://www.linkedin.com/company/infodevelopers-pvt-ltd/		|
-| Innate Desing Solution| https://www.linkedin.com/company/innate-design-solution-pvt-ltd/ |
-|	Inspiring Lab	|	https://www.linkedin.com/company/inspiring-lab/		|
-| Identv Nepal    |   https://www.linkedin.com/company/identvnepal/       |
-| Jamun Tek | https://www.linkedin.com/company/jamuntek/ |
-|	Leapfrog Technology	|	https://www.linkedin.com/company/lftechnology/		|
-|	Lis Nepal	|	https://www.linkedin.com/company/lis-nepal-pvt-ltd/		|
-|	Logictronix	|	https://www.linkedin.com/company/logictronix/		|
-| NepAl Applied Mathematics and Informatics Institute for research | https://www.naamii.org.np/ |
-|	Mpercept Technology	|	https://www.linkedin.com/company/mpercept-technology/		|
-| Naamche | https://www.linkedin.com/company/naamche/ |
-|	Nimble Clinical Research	|	https://www.linkedin.com/company/nimble-cr/		|
-|	Paaila Technology	|	https://www.linkedin.com/company/paaila-technology/		|
-| Palm Mind Technology | https://www.linkedin.com/company/palm-mind-technology/ |
-|	Rippey AI	|	https://www.linkedin.com/company/rippey/		|
-| Subiz Innovations | https://subizinnovations.com.np/|
-| Smart Data Solutions | https://www.linkedin.com/company/smart-data-solutions/life/smartlife/ |
-|	Tekkon Technologies Nepal	|	https://www.linkedin.com/company/tekkontech/		|
-| Tesseract Intelligence | https://www.linkedin.com/company/tesseract-intelligence/ |
-| TIA Inc | https://www.linkedin.com/company/taigroup/ |
-|	Treeleaf Technologies	|	https://www.linkedin.com/company/treeleafai/		|
-| Web and App Pvt | https://www.linkedin.com/company/web-and-app-pvt-ltd/ |
-| Vertex Special Technology | https://www.linkedin.com/company/vertex-special-technologies/ |
-|	Wiseyak	|	https://www.linkedin.com/company/wiseyakinc/		|
+|	Angelswing	|	            <a href="https://www.linkedin.com/company/angelswing/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 	|
+|   Armis Tech |                <a href="https://www.linkedin.com/company/armistech/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Asterdio	|	            <a href="https://www.linkedin.com/company/asterdio/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Bottle Technology	|	    <a href="https://www.linkedin.com/company/bottle-technology/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   BSAI Techno Sales   |       <a href="https://www.linkedin.com/company/bsaitechnosales/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>        |
+|	BrainTip AI	|	            <a href="https://www.linkedin.com/company/braintip-ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Bytes N Chips Software|	    <a href="https://www.linkedin.com/company/bytes-n-chips-software/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Chulo Solution	|	        <a href="https://www.linkedin.com/company/chulo-solution/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Cloudfactory	|	        <a href="https://www.linkedin.com/company/cloudfactory-com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Crimson Tech |              <a href="https://www.linkedin.com/company/crimson-tech-nepal/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Deerhold	|	            <a href="https://www.linkedin.com/company/deerhold/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Diyo.AI	|	                <a href="https://www.linkedin.com/company/diyoai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   DLytica inc |               <a href="https://www.linkedin.com/company/dlytica/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Docsumo	|	                <a href="https://www.linkedin.com/company/docsumoai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Ekbana Solutions	|	    <a href="https://www.linkedin.com/company/ekbana-solutions-pte--ltd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Ensemble Matrix	|	        <a href="https://www.linkedin.com/company/ensemblematrix/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	exTenso Data	|	        <a href="https://www.linkedin.com/company/extensodata/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Eydean	|	                <a href="https://www.linkedin.com/company/eydeaninc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Fuse Machines	|	        <a href="https://www.linkedin.com/company/fusemachines/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	GritFeat Solutions	|	    <a href="https://www.linkedin.com/company/gritfeat-solutions/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	GrowByData	|	            <a href="https://www.linkedin.com/company/growbydata/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	iBriz.ai	|	            <a href="https://www.linkedin.com/company/ibriz-ai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Info Developers	|	        <a href="https://www.linkedin.com/company/infodevelopers-pvt-ltd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Innate Desing Solution|     <a href="https://www.linkedin.com/company/innate-design-solution-pvt-ltd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Inspiring Lab	|	        <a href="https://www.linkedin.com/company/inspiring-lab/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Identv Nepal    |           <a href="https://www.linkedin.com/company/identvnepal/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>        |
+|   Jamun Tek |                 <a href="https://www.linkedin.com/company/jamuntek/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Leapfrog Technology	|	    <a href="https://www.linkedin.com/company/lftechnology/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Lis Nepal	|	            <a href="https://www.linkedin.com/company/lis-nepal-pvt-ltd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Logictronix	|	            <a href="https://www.linkedin.com/company/logictronix/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   NepAl Applied Mathematics & Informatics Institute for Research | <a href="https://www.linkedin.com/company/naamiinepal/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Mpercept Technology	|	    <a href="https://www.linkedin.com/company/mpercept-technology/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Naamche |                   <a href="https://www.linkedin.com/company/naamche/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Nimble Clinical Research|   <a href="https://www.linkedin.com/company/nimble-cr/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|	Paaila Technology	|	    <a href="https://www.linkedin.com/company/paaila-technology/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Palm Mind Technology |      <a href="https://www.linkedin.com/company/palm-mind-technology/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Rippey AI	|	            <a href="https://www.linkedin.com/company/rippey/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Subiz Innovations |         <a href="https://subizinnovations.com.np/" target="_blank"><img src="https://icons-for-free.com/iff/png/256/world-131983800559438312.png" width="20"/></a> |
+|   Smart Data Solutions |      <a href="https://www.linkedin.com/company/smart-data-solutions/life/smartlife/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Tekkon Technologies Nepal|	<a href="https://www.linkedin.com/company/tekkontech/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Tesseract Intelligence |    <a href="https://www.linkedin.com/company/tesseract-intelligence/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|   TIA Inc |                   <a href="https://www.linkedin.com/company/taigroup/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Treeleaf Technologies	|	<a href="https://www.linkedin.com/company/treeleafai/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
+|   Web and App Pvt |           <a href="https://www.linkedin.com/company/web-and-app-pvt-ltd/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|   Vertex Special Technology | <a href="https://www.linkedin.com/company/vertex-special-technologies/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a>  |
+|	Wiseyak	|	                <a href="https://www.linkedin.com/company/wiseyakinc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/></a> 		|
